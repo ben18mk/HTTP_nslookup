@@ -1,4 +1,5 @@
 # Benjamin Mamistvalov
+# Computer Network Researching course
 # Coded in vscode - no PEP8 warner
 
 import socket
